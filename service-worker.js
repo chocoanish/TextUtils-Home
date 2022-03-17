@@ -15,7 +15,7 @@ importScripts("/TextUtils-Home/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/TextUtils-Home/workbox-v3.6.3"});
 
 importScripts(
-  "/TextUtils-Home/precache-manifest.a51d004d6764b44dcae5e6b9cbd52465.js"
+  "/TextUtils-Home/precache-manifest.627b0d70572b186d9f94d55968cfb866.js"
 );
 
 workbox.clientsClaim();
